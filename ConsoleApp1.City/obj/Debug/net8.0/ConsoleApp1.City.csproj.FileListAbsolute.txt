@@ -1,0 +1,12 @@
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\bin\Debug\net8.0\ConsoleApp1.City.deps.json
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\bin\Debug\net8.0\ConsoleApp1.City.dll
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\bin\Debug\net8.0\ConsoleApp1.City.pdb
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\obj\Debug\net8.0\ConsoleApp1.City.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\obj\Debug\net8.0\ConsoleApp1.City.AssemblyInfoInputs.cache
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\obj\Debug\net8.0\ConsoleApp1.City.AssemblyInfo.cs
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\obj\Debug\net8.0\ConsoleApp1.City.csproj.CoreCompileInputs.cache
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\obj\Debug\net8.0\ConsoleApp1.City.sourcelink.json
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\obj\Debug\net8.0\ConsoleApp1.City.dll
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\obj\Debug\net8.0\refint\ConsoleApp1.City.dll
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\obj\Debug\net8.0\ConsoleApp1.City.pdb
+C:\Users\mehem\source\repos\ConsoleApp1\ConsoleApp1.City\obj\Debug\net8.0\ref\ConsoleApp1.City.dll
